@@ -1,3 +1,3 @@
-web: python3 задача1.py
+web: python3 botbot.py
 
-worker: python3 задача1.py
+worker: python3 botbot.py
